@@ -1,0 +1,505 @@
+body {
+    /*margin: 0;
+    font-family: Arial, Helvetica, sans-serif;*/
+	position: absolute;
+left: -0.98%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color:#fff;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #111010;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: rgb(250, 248, 248);
+  }
+  
+  .topnav a.active {
+    /*background-color: #04AA6D;*/
+    color: rgb(14, 13, 13);
+  }
+  
+  .topnav-right {
+    float: right;
+  }
+  .relab{
+	  position: absolute;
+left: 7.07%;
+right: 89.2%;
+top: 38.01%;
+bottom: 36.34%;
+
+background: #57B2AE;
+  }
+
+  .button {
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
+
+  .button2 {background-color: #dd2eb1; border-radius: 12px;} /* pink */
+.button3 {background-color: #476faa; border-radius: 12px;} /* blue */ 
+
+.rebal{
+position: absolute;
+width: 415px;
+height: 60px;
+left: 564px;
+top: 205px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+}
+.code{
+	position: absolute;
+width: 1078px;
+height: 23px;
+left: 223px;
+top: 291px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+}
+
+.friend2{
+	position: absolute;
+width: 420px;
+height: 350px;
+left: 483px;
+top: 427px;
+right:500px;
+
+background: url(pic.png);
+	
+}
+
+.rectangle1{
+	position: absolute;
+width: 1438px;
+height: 379px;
+left: -14px;
+top: 972px;
+
+background: #D9FDFB;
+
+}
+
+.text{
+	position: absolute;
+
+
+top: 800px;
+padding-top:80px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+	
+}
+
+.rectangle2{
+	position: absolute;
+width: 1071px;
+height: 223px;
+left: 183px;
+top: 1438px;
+background: #E4ECF3;
+}
+
+.text2{
+	position: absolute;
+	text-align: center;
+	padding-top:50px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+
+.rectangle3{
+	position: absolute;
+width: 541px;
+height: 35px;
+margin-top:15px;
+margin-left:250px;
+background: #FFFEFE;
+}
+
+.text3{
+	position: absolute;
+text-align:right;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.card
+{
+	position: absolute;
+width: 250px;
+height: 245px;
+left: 173px;
+top: 1796px;
+
+
+background: url(pic1.png);
+}
+.card1{
+	position: absolute;
+width: 250px;
+height: 250px;
+left: 570px;
+top: 1796px;
+
+background: url(pic2.png);
+}
+.card2{
+	position: absolute;
+width: 250px;
+height: 240px;
+left: 954px;
+top: 1796px;
+
+background: url(pic3.png);
+}
+.text4{
+	position: absolute;
+width: 244px;
+height: 126px;
+left: 180px;
+top: 2100px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+
+color: #000000;
+}
+.text5{
+	position: absolute;
+width: 274px;
+height: 84px;
+left: 560px;
+top: 2100px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+
+color: #000000;
+}
+.text6{
+	position: absolute;
+width: 232px;
+height: 84px;
+left: 970px;
+top: 2100px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+
+color: #000000;
+}
+.rectangle4{
+position: absolute;
+width: 1520px;
+height: 532px;
+left: 0px;
+top: 2424px;
+
+background: #FFF5F5;
+}
+
+.text7{
+	position: absolute;
+
+	top: 2518px;
+	left:20px;
+	padding-left:20px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 35px;
+
+	color: #000000;
+}
+.company{
+	position: absolute;
+	left: 0.1%;
+	right: 92.22%;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bolder;
+	font-size: 20px;
+
+
+
+}
+.features{
+	position: absolute;
+	left: 33.9%;
+	right: 59.07%;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bolder;
+	font-size: 20px;
+
+}
+.blog{
+	position: absolute;
+	left: 67.48%;
+	right: 29.12%;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bolder;
+	font-size: 20px;
+
+}
+.about{
+	position: absolute;
+left: 0.25%;
+right: 93.61%;
+top: 14.54%;
+bottom: 81.54%;
+}
+.contact{
+	position: absolute;
+width: 1209px;
+height: 353px;
+top: 27.47%;
+bottom: 68.79%;
+}
+.pricing{
+	position: absolute;
+width: 1209px;
+height: 353px;
+top: 40.17%;
+bottom: 54.87%;
+}
+.faq{
+	position: absolute;
+left: 0.39%;
+right: 96.97%;
+top: 52.96%;
+bottom: 42.48%;
+}
+
+.feature1{
+	position: absolute;
+left: 33.98%;
+right: 59.95%;
+top: 14.77%;
+bottom: 81.54%;
+}
+.feature2{
+	position: absolute;
+left: 33.98%;
+right: 59.31%;
+top: 27.47%;
+bottom: 68.79%;
+}
+.feature3{
+	position: absolute;
+left: 33.98%;
+right: 59.31%;
+top: 40.22%;
+bottom: 56.04%;
+}
+.feature4{
+	position: absolute;
+left: 33.98%;
+right: 59.31%;
+top: 52.4%;
+bottom: 43.86%;
+}
+.relab{
+	position: absolute;
+left: 67.47%;
+right: 28.88%;
+top: 14.54%;
+bottom: 81.54%;
+}
+.product{
+	position: absolute;
+left: 67.56%;
+right: 27.15%;
+top: 27.29%;
+bottom: 68.79%;
+}
+.property{
+	position: absolute;
+left: 67.56%;
+right: 19.62%;
+top: 39.75%;
+bottom: 55.15%;
+}
+.customer{
+	position: absolute;
+left: 67.5%;
+right: 20.68%;
+top: 52.35%;
+bottom: 43.86%;
+
+}
+.copyright{
+	position: absolute;
+left: 15.37%;
+right: 35.72%;
+top: 92.87%;
+bottom: 2.59%;
+}
+.terms{
+	position: absolute;
+	left: 0.01%;
+	right: 95.23%;
+	top: 92.16%;
+	bottom: 2.32%;
+	text-decoration: underline;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+}
+.privacy{
+	position: absolute;
+	left: 6.61%;
+	right: 88.09%;
+	top: 92.16%;
+	bottom: 2.32%;
+	text-decoration: underline;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	}
+.facebook{
+	position: absolute;
+left: 75.35%;
+right: 21.67%;
+top: 88.1%;
+bottom: 1.76%;
+
+background: #57B2AE;
+}
+.instagram{
+	position: absolute;
+left: 80.69%;
+right: 16.42%;
+top: 88.26%;
+bottom: 1.85%;
+}
+.linkedin{
+position: absolute;
+left: 86.09%;
+right: 11.34%;
+top: 89.62%;
+bottom: 2.65%;
+}
+.twitter{
+	position: absolute;
+left: 91.52%;
+right: 5.91%;
+top: 89.62%;
+bottom: 2.65%;
+}
+.youtube{
+	position: absolute;
+left: 96.53%;
+right: 0.5%;
+top: 89.52%;
+bottom: 3.34%;
+}
+.footer{
+	
+	
+  position: bottom;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+
+}
+.terms{
+	position: absolute;
+left: 0%;
+right: 95.15%;
+top: 91.6%;
+bottom: 3.10%;
+
+
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+
+.frame{
+	position: absolute;
+width: 1209px;
+height: 353px;
+left: 176px;
+top: 3075px;
+
+}
